@@ -1,3 +1,23 @@
+#Para usar esta  App
+
+Introduzca el monto de su presupuesto diario, semanal o mensual en el campo y luego clickee el botón de añadir.
+
+En la esquina inferior derecha habrá un botón en donde podrá agregar un gasto nuevo, rellene los campos correspondientes, elija la categoría y luego clickee al botón de Añadir gasto
+
+##Para Editar o Eliminar un gasto del presupuesto
+
+Solo arrastre hacia la derecha para Editar el gasto o arrastre hacia la derecha para Eliminar el gasto.
+
+##Filtrando las categorías de los gastos
+
+Si ya posee diferentes gastos registrados podrá filtrarlos con la ventana desplegable de Filtrar gastos y podrá seleccionar las categorías de dichos gastos que quiere que se muestre.
+
+##Reseteando todos los gastos
+
+El botón en la parte superior Resetear Presupuesto volverá a los valores predeterminados de la App de forma inmediata.
+
+###Si quiere descargar el código y usarlo siga las indicaciones de abajo 👇🏻
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
